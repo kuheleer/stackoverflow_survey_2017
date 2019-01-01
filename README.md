@@ -1,1 +1,1 @@
-# uda
+# udacity projects
