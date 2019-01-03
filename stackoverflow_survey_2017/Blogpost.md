@@ -1,5 +1,9 @@
 # Heading to one of the hottest career spotlight: Webdeveloper
 
+<p align="center">
+ <img src="https://wallup.net/wp-content/uploads/2017/11/17/353502-hands-keyboards-internet-network-binary-technology-748x468.jpg" title="hover text" width= 800 height= 200>
+ </p>
+
 *"The Web is about people first, technology second,"* says D. Keith Robinson, a Seattle-based Web designer.
 *"Designing for the Web is more about communication and content than graphic design."*
 These challenges creeping in with each day keeps this career quite exciting and stable in terms of both job satisfaction and financial income.
@@ -21,7 +25,16 @@ Imagine creating 300 pages daily. Pretty cumbersome is it?
 
 Well, a easy way out is to utilize a database to store all of our articles and write a script to make the HTML retrive information from the database. We can begin to think of these as two entities viz, the back-end and front-end of our website. 
 
+<p align="center">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7mavgc9Uh7EqaAEmpZqf8Ddx2Ew-S0ncJ89xcHhGoE02o1azLQ" title="hover text" width= 800 height= 300>
+ </p>
+
 Now let’s get back to the main question we asked in the first place: What is the little more to enhance your knowledge hub and have the feather on the cap in the field of web development.
+
+<p align="center">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWGZfUYCq2ob3XQjWWOHY-OwPgjT2ONBnZDf3EmU_iy9cYaFwD" title="hover text" width= 800 height= 300>
+ </p>
+
 Although you are expected to have a knowledge that is a a culmination of many related languages, a look into the most commonly used languages is worth it.
 ![articles_num](/stackoverflow_survey_2017/figures/lang.png)
 
@@ -35,7 +48,12 @@ Following is the data pertaining to the figure above:
      -Python        66431.251978
      -SQL           55149.674974
 
-Now that I have mentioned about the languages for webdevelopment, this blog would remain incomplete if the other bigger side remains unvisited. I  now approach the role of a full-stack web developer. A full-stack web developer has expertise in all layers or “STACK”s of a website’s development. This includes, but not limited to: the server, client and hosting, a form of data structuring or modeling, user interface and experience, as well as the needs of the actual business.
+Now that I have mentioned about the languages for webdevelopment, this blog would remain incomplete if the other bigger side remains unvisited. I  now approach the role of a full-stack web developer. 
+<p align="center">
+ <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjYCZKxT_nLqn3JtfNmvnZhoWZ2c3_DQISBgRkFVGoD7Tr3MeMAg" title="hover text" width= 800 height= 300>
+ </p>
+
+A full-stack web developer has expertise in all layers or “STACK”s of a website’s development. This includes, but not limited to: the server, client and hosting, a form of data structuring or modeling, user interface and experience, as well as the needs of the actual business.
 ![articles_num](/stackoverflow_survey_2017/figures/dev_type.png)
 
 The count of webdevelopertype corresponding to the figure above is mentioned below:
